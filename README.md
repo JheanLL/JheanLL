@@ -2,8 +2,8 @@
 
 Soy un desarrollador autodidacta, me encanta la programación y por eso siempre estoy aprendiendo algo nuevo o mejorando mis habilidades.
 
-	React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs 
-        Next.js / Typescript
+	React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs
+        Next.js / Typescript / GraphQL / Docker / Git
 	   
 	
 
