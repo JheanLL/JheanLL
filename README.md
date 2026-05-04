@@ -6,17 +6,7 @@ I'm a software developer passionate about solving complex problems and turning i
 * 🌱 **Currently exploring:** Software architecture, performance optimization, and best coding practices.
 * 💻 **Working on:** Building personal projects and exploring new development tools.
 * 💬 **Ask me about:** Tech, problem-solving, or anything development-related.
-
-## 🛠️ Featured Projects
-
-### [Project Name 1](https://github.com/JheanLL/repo-link-1)
-A brief description of what the project does, the problem it solves, or the value it provides. 
-* **Focus:** Scalability, clean code, and user experience.
-
-### [Project Name 2](https://github.com/JheanLL/repo-link-2)
-A short summary of another application, tool, or script you've built.
-* **Focus:** Automation, data management, or specific logic implementation.
-
+  
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -25,6 +15,4 @@ A short summary of another application, tool, or script you've built.
 </div>
 
 ## 📫 Let's Connect
-* 🔗 [LinkedIn](Your-LinkedIn-URL)
-* 🌐 [Portfolio](Your-Portfolio-URL)
-* 📧 [Email](mailto:your-email@example.com)
+* 📧 [Email](mailto:jheanlozano01@gmail.com)
