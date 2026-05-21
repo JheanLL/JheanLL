@@ -9,8 +9,8 @@ I'm a software developer passionate about solving complex problems and turning i
   
 ## 📈 GitHub Stats
 
-![JheanLL's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=JheanLL&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=JheanLL&layout=compact&theme=transparent&hide_border=true)
+![JheanLL's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=JheanLL&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=3)
+![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=JheanLL&layout=compact&theme=transparent&hide_border=true&v=3)
 
 ## 📫 Let's Connect
 * 📧 [Email](mailto:jheanlozano01@gmail.com)
